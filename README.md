@@ -13,7 +13,7 @@ A developer blending **code** and **creativity** to build cool stuff.
 - 💻 **Desktop Apps**.
 
 ### **Let’s Connect**
-- 👾 **Discord**: .wojtusiek.
+- 👾 **Discord**: devx3d
 
 ### **Fun Stuff**
 - 🎮 **Private Server Developer**.
