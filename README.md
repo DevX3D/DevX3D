@@ -15,11 +15,6 @@ A developer blending **code** and **creativity** to build cool stuff.
 ### **Let’s Connect**
 - 👾 **Discord**: devx3d
 
-### **Fun Stuff**
-- 🎮 **Private Server Developer**.
-- 🚀 **Web Designer**.
-- 💡 **Open-source advocate**.  
-
 💬 **Fun Fact**: The "X" in **DevX3D** is the mystery.
 
 📂 **Explore my projects below** and reach out if you want to collaborate or chat about something! :)
