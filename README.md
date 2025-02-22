@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm **Wojciech Dziubała** — **DevX3D**.  
+A developer blending **code** and **creativity** to build cool stuff.  
 
-<!--
-**DevX3D/DevX3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Languages:**
+- 🌐 **Web**: Begginer with **HTML, CSS, JavaScript**.  
+- 🐍 **Python**: Learning.  
+- 🖥 **C++**: Learning.    
 
-Here are some ideas to get you started:
+### **What do i do:**
+- 🎮 **Private Servers**.
+- 🚀 **Websites**.
+- 💽 **Operation System**.  
+- 💻 **Desktop Apps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Let’s Connect**
+- 👾 **Discord**: .wojtusiek.
+
+### **Fun Stuff**
+- 🎮 **Private Server Developer**.
+- 🚀 **Web Designer**.
+- 💡 **Open-source advocate**.  
+
+💬 **Fun Fact**: The "X" in **DevX3D** is the mystery.
+
+📂 **Explore my projects below** and reach out if you want to collaborate or chat about something! :)
